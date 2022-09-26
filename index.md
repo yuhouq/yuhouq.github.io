@@ -13,7 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-* In September 2022, the workshop proceedings of EEKE2022 are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3210/), [DBLP](https://dblp.org/db/conf/jcdl/eeke2022.html).
+* In September 2022, the workshop proceedings of EEKE2022 are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3210/), [DBLP](https://dblp.org/db/conf/eeke/eeke2022.html).
 * ***Call for Paper***: Special issue about “Extraction and Evaluation of Knowledge Entities from Scientific Documents” (EEKE) at [Scientometrics]( https://link.springer.com/collections/hbffbdggdj) (Note: Submission via the  [Scientometrics Editorial Manager](https://www.editorialmanager.com/scim/ ) under “***S.I. : EEKE***” )
 * ***Call for Paper***: Special isssue about "Information Extraction and Language Discourse Processing" at [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD) 
 * Call for Paper: Special issue about “AI + Informetrics: Robust Models for Large-scale Analytics” at Information Processing & Management (IP&M), detailed information can be visited at: [https://ai-informetrics.github.io/2022/](https://ai-informetrics.github.io/2022/)
