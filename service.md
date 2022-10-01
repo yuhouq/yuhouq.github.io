@@ -25,6 +25,9 @@ order:  5
 * ***NLP & AI-related fields***: IJCAI, ACL, EMNLP, NAACL, AACL, IJCNLP, NLPCC, SMP, CCIR, CCKS, NLPOE, IWWIP, etc.
 
 ## Editorial Board Member 
+* ***Associate Editor***
+  * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science)
+
 * ***Guest Editors***
   * [Information Processing and Management(IPM)](https://www.elsevier.com/events/conferences/information-processing-and-management-conference/author-submission/ai-informetrics-robust-models-for-large-scale-analytics)
   * Scientometrics: [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
