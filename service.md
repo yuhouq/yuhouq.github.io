@@ -55,6 +55,7 @@ order:  5
   * Journal of Library and Information Science in Agriculture (In Chinese)
   * Technology Intelligence Engineering (In Chinese)
 
+
 ## Journal Reviewer 
 * ***IS field***: Journal of the Association for Information Science and Technology(JASIST)(***Top peer reviewers in 2021***), Information Processing and Management(IPM), Aslib Journal of Information Management, Journal of Informetrics, Scientometrics, Internet Research, Journal of Information Science, Journal of Librarianship and Information Science, Data Technologies and Applications, Library Hi Tech, The Electronic Library (***Outstanding reviewer in the 2018, 2021*** respectively), Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data, Journal of Data and Information Science
 * ***NLP & AI-related fileds***: Journal of Natural Language Engineering (JNLE), Computer Speech and Language, ACM Transactions on Asian and Low-Resource Language Information Processing, ACM Transactions on Intelligent Systems and Technology, Artificial Intelligence Review, Knowledge-Based Systems, Neurocomputing, Applied Artificial Intelligence, IEEE Transactions on Artificial Intelligence, Applied Intelligence
