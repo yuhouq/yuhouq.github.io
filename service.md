@@ -6,13 +6,13 @@ menu:   true
 order:  5
 ---
 # Conference Services
+
 ##  Co-Chair
 * 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)).
 * 2nd Workshop on AI + Informetrics ([AII2022](https://ai-informetrics.github.io/2022/)) affiliated with the ([IP&MC 2022 Annual Conference](https://www.elsevier.com/events/conferences/information-processing-and-management-conference)) 
 * 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)).  [[Proceedings]](http://ceur-ws.org/Vol-3004/)
 * 1st Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/)).  [[Proceedings]](http://ceur-ws.org/Vol-2871/) 
 * 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).  [[Proceedings]](http://ceur-ws.org/Vol-2658/)
-
 
 ## Session Chair 
 * JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
@@ -25,7 +25,9 @@ order:  5
 * ***IS field***: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, ICEBE, COINFO, etc.
 * ***NLP & AI-related fields***: IJCAI, ACL, EMNLP, NAACL, AACL, IJCNLP, NLPCC, SMP, CCIR, CCKS, NLPOE, IWWIP, etc.
 
+
 # Journal Services 
+
 ## Editors 
 * ***Associate Editor***
   * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science)
