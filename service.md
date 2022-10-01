@@ -40,7 +40,20 @@ order:  5
   * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
   * [Data and Information Management (DIM)](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)
 ## Editorial Board Member
-Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (Guest Editorial Board), Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
+  * Patterns
+  * Online Information Review
+  * Aslib Journal of Information Management
+  * The Electronic Library
+  * Information Discovery and Delivery
+  * Journal of Natural Language Engineering (Guest Editorial Board)
+  * Frontiers in Research Metrics and Analytics, Data Intelligence
+  * International Journal of Knowledge Content Development and Technology
+  * Data Science and Informetrics
+  * Data Analysis and Knowledge Discovery (In Chinese)
+  * Scientific Information Research (In Chinese)
+  * Journal of Library and Data (In Chinese)
+  * Journal of Library and Information Science in Agriculture (In Chinese)
+  * Technology Intelligence Engineering (In Chinese)
 
 ## Journal Reviewer 
 * ***IS field***: Journal of the Association for Information Science and Technology(JASIST)(***Top peer reviewers in 2021***), Information Processing and Management(IPM), Aslib Journal of Information Management, Journal of Informetrics, Scientometrics, Internet Research, Journal of Information Science, Journal of Librarianship and Information Science, Data Technologies and Applications, Library Hi Tech, The Electronic Library (***Outstanding reviewer in the 2018, 2021*** respectively), Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data, Journal of Data and Information Science
