@@ -10,7 +10,7 @@ order:  5
 
 ##  Co-Chair
 * ***[Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE)](https://eeke-workshop.github.io/)***
-  * 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)).
+  * 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)).  [[Proceedings]](http://ceur-ws.org/Vol-3210/)
   * 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)).  [[Proceedings]](http://ceur-ws.org/Vol-3004/)
   * 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)).  [[Proceedings]](http://ceur-ws.org/Vol-2658/)
 * ***[Workshop on AI + Informetrics (AII)](https://ai-informetrics.github.io/)***
