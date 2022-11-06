@@ -18,8 +18,13 @@ order:  6
 {% include collaborator.html people=page.project-students show=false %}
 -->
 ### Master students
+* Jiaqi Zeng, 2022
+* Ziling Chen, 2022
+* Jingyu Zhang, 2022
+* Yi Mao, 2022
+* Yanqi Ren, 2022
+* Yang Yang, 2022
 * Xinlong Chu, 2021
-* Xinyi Yan, 2021
 * Siqi Wei, 2021
 * Shuyu Peng, 2021
 * Zile Hu, 2021
