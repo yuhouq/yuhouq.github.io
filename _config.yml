@@ -19,12 +19,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                  Chengzhi Zhang
+title:                  Xing Wang 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Chengzhi Zhang, Professor 
+  Xing Wang, Professor 
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -38,10 +38,10 @@ logo:                  /assets/img/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Chengzhi Zhang
+  name:                Xing Wang 
   picture:             /assets/img/me.jpg
   social:
-    github:              chengzhizhang
+    github:              Xing Wang 
 
 
 # This text will appear in a `<small>` tag in the footer of every page.
