@@ -7,7 +7,6 @@ order: 7
 ---
 
 
-## 联系方式
 wangxing@sjtu.edu.cn
 
 
