@@ -5,7 +5,6 @@ cover:  false
 menu:   true
 order:  3
 ---
- (*=corresponding author)
 
 ## 期刊论文
 * Wang X*, Zhang Z H. Improving the reliability of short-term citation impact indicators by taking into account the correlation between short- and long-term citation impact[J]. Journal of Informetrics, 2020, 14(2): 101019.（SCI、SSCI）
