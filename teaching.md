@@ -1,20 +1,13 @@
 ---
 layout: page
-title:  Teaching
+title:  学术获奖
 cover:  false
 menu:   true
 order:  4
 ---
 
-## Tutorial 
-* Academic Documents Mining (Spring 2020, for undergraduates)
-
-
-## Courses
-* Research Topics on Information System and Knowledge Management (Spring 2016, Spring 2020~2022, for Phd students)
-* Text Mining (Autumn 2011~2022, for Master students)
-* Big Data and Business Analysis (Autumn 2019~2022, for Master students)
-* Webpages Design and Making (Spring 2012~2021, for undergraduates)
-* Web Programming (Spring 2012~2016, for undergraduates)
+* 任元秋, 王 兴*.《不同学科标准化方法对于高校科研评价结果的影响研究》.第四届科学计量与科技评价天府论坛优秀论文二等奖, 2021年11月.
+* 王 兴*, 张志辉. 《TWCNCI：一种考虑加权引文时间窗口的学科标准化新指标研究》. 第十二届全国科学计量学与科教评价研讨会优秀论文三等奖, 2021年6月.
+* 指导的硕士研究生李雪兰的硕士学位论文《引入时间窗口因素的学科标准化新指标研究》获山西省优秀硕士学位论文, 2022年7月.
 
 
