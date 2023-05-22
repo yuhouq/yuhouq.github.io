@@ -6,7 +6,6 @@ menu:   true
 order:  3
 ---
 
-## 期刊论文
 Yu, H., Wang, Y., Zhang W., Xiao T., Hou J. Who Shares Scholarly Output on Facebook? A Systematic Investigation into Their Location, Productivity and Identities.[J]. Journal of Information Science, 2023, (in press)
 
 Yu, H., Wang, Y., Hussain, S. et al. Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics (2023). https://doi.org/10.1007/s11192-023-04678-6
