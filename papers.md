@@ -7,32 +7,63 @@ order:  3
 ---
 
 ## 期刊论文
-* Wang X*, Zhang Z H. Improving the reliability of short-term citation impact indicators by taking into account the correlation between short- and long-term citation impact[J]. Journal of Informetrics, 2020, 14(2): 101019.（SCI、SSCI）
-* Wang X*. A Granger causality test of the causal relationship between the number of editorial board members and the scientific output of universities in the field of chemistry[J]. Current Science, 2019, 116(1): 35-39.（SCI）
-* Wang X*. The relationship between SCI editorial board representation and university research output in the field of computer science: A quantile regression approach[J]. Malaysian Journal of Library and Information Science, 2018, 23(1): 67-84.（SSCI）
-* 任元秋, 王 兴*, 李杰. 不同学科标准化方法对于高校科研质量评价结果的影响研究[J]. 评价与管理, 2022, 20(2): 52-59.
-* 王 兴*, 张志辉. TWCNCI：一种考虑加权引文时间窗口的学科标准化新指标研究[J]. 图书情报工作, 2022, 66(5): 116-124.（CSSCI）
-* 任元秋, 王 兴*, 郑钦钦. 不同学科分类方案下不同学科标准化方法效果的比较研究[J]. 图书情报工作, 2021, 65(3): 84-92.（CSSCI） 
-* 王 兴*. 国际学术期刊编委数量与科研产出评价指标的相关性研究——以经济学学科世界984所大学为例[J]. 重庆大学学报（社会科学版）, 2017, 23(1): 61-70.（CSSCI）
-* 王 兴*. 谁影响谁？大学国际学术期刊、会议守门人数量与科研产出的因果关系研究——以计算机学科为例[J]. 情报杂志, 2016, 35(12): 189-194.（CSSCI）
-* 王 兴*. 国际学术话语权视角下的大学学科评价研究——以化学学科世界1387所大学为例[J]. 清华大学教育研究, 2015, 36(3): 64-75.（CSSCI）
-* 王 兴*. 国际学术期刊“把门人”视角下的大学学科评价研究——以计算机学科国际1573所大学为例[J]. 情报杂志, 2015, 34(1): 83-87.（CSSCI）
+Yu, H., Wang, Y., Zhang W., Xiao T., Hou J. Who Shares Scholarly Output on Facebook? A Systematic Investigation into Their Location, Productivity and Identities.[J]. Journal of Information Science, 2023, (in press)
+
+Yu, H., Wang, Y., Hussain, S. et al. Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics (2023). https://doi.org/10.1007/s11192-023-04678-6
+
+陈涛,苏日娜,张永娟,张靖,余厚强.智慧数据驱动的古籍智慧性保护体系研究[J].中国图书馆学报,2023,49(01):68-81.
+
+Yu, H., Li, L., Cao X., & Chen T. Exploring country's preference over news mentions to academic papers.[J]. Journal of Informetrics, 2022, 16(4): 1751-1771.
+
+Yu, H., Yu, X., & Cao, X. (2022). How accurate are news mentions of scholarly output? A content analysis. Scientometrics, 127(7), 4075-4096.
+
+余厚强.替代计量学的理论框架研究[J].情报学报,2022,41(08):775-785.
+
+Yu, H., Murat, B., Li, L. et al. (2021) How accurate are Twitter and Facebook altmetrics data? A comparative content analysis. Scientometrics. 126, 4437–4463.
+
+余厚强,曹雪婷. Mendeley阅读指标视角下的中美国际论文影响力比较研究[J]. 信息资源管理学报,2021,11(03):77-87.
+
+余厚强,曹雪婷,王曰芬. 新闻替代计量指标的分布特征研究[J]. 情报学报,2020,39(10):1081-1092.
+
+Yu, H., Cao, X., Xiao, T. et al. How accurate are policy document mentions? A first look at the role of altmetrics database. (2020), Scientometrics. 125(11), 1517–1540.
+
+余厚强. 替代计量学：概念、指标与应用.[M]中国北京, 科学技术文献出版社，2019.
+
+Yu, H.Q., Xiao, T.T., Xu, S.M., & Wang, Y.F. (2019). Who posts scientific tweets? An investigation into the productivity, locations, and identities of scientific tweeters. Journal of Informetrics, 13(3), 841-855.
+
+Yu H.Q., Cao X.T., Xiao T.T. & Yang Z.Y. Accuracy of Policy Document Mentions: the Role of Altmetrics Databases [C]// Proceedings of the 17th International Conference for Scientometrics and Informetrics, Rome, Italy. 2019.
+
+余厚强,任全娥,张洋,刘春丽.Altmetrics的译名分歧:困扰、影响及其辨析[J].中国图书馆学报,2019,45(1):47~59
+
+余厚强，曹雪婷.替代计量数据质量评估体系构建研究[J].图书情报知识，2019, 188(02):21-29+52.
+
+Xu, S.M., Yu, H.Q., Hemminger, B.M. et al. Who, what, why? An exploration of JoVE scientific video publications in tweets .[J]Scientometrics, 2018, 117(2):845-856
+
+余厚强，董克，王曰芬，章成志. 基于科学推文视角的非正式科学交流语言分布研究. [J] 中国图书馆学报，2018，(2):91-101.
+
+王曰芬,李冬琼,余厚强. 生命周期阶段中的科学合作网络演化及高影响力学者成长特征研究[J]. 情报学报,2018,37(02):121-131.
+
+余厚强，王曰芬，王菲菲，陈必坤. 科学推文作者行为模式与地理分布研究. [J] 情报学报，2018,(2):140-150.
+
+Yu, H.Q., Xu, S.M., & Xiao, T.T. (2018). Is there Lingua Franca in informal scientific communication? Evidence from language distribution of scientific tweets. Journal of Informetrics, 12(3), 605-617.
+
+Yu, H.Q., Xu, S.M., Xiao, T.T., Hemminger, B.M., etc. (2017). Global science discussed in local altmetrics: Weibo and its comparison with Twitter. Journal of Informetrics. 11(2): 466-482.
+
+Yu, H.Q. (2017). Context of altmetrics matters: investigation to count type and user category. Scientometrics. 111(1): 267-283.
+
+Yu, L.P., & Yu, H.Q. (2016). Does the average JIF percentile make a difference?. Scientometrics, 109(3), 1979-1987.
+
+余厚强,肖婷婷,王曰芬,邱均平. 政策文件替代计量指标分布特征研究[J]. 中国图书馆学报,2017,43(05):57-69.
+
+余厚强. 替代计量指标与引文量相关性的大规模跨学科研究——数值类型、指标种类与用户类别的影响[J]. 情报学报, 2017, 36(6):606-617.
+
+余厚强， Bradley M. Hemminger，肖婷婷，邱均平. 新浪微博替代计量指标特征分析.[J]中国图书馆学报，2016.
+
+邱均平, 余厚强.论推动替代计量学发展的若干基本问题[J]中国图书馆学报, 2015.
+
+杨思洛, 邱均平, 丁敬达，余厚强. 网络环境下国内学者引证行为变化与学科间差异——基于历时角度的分析[J].中国图书馆学报, 2016.
 
  
-## 会议论文
-* Zhang L H, Wang X*. Two new field normalization indicators considering the reliability of citation time window: Some theoretical considerations[C]. 18th Conference of the International Society for Scientometrics and Informetrics（ISSI 2021）, 2021, 1307-1317, Belgium.（大会上做Oral Presentation） （EI会议、CPCI-S）
-* Wang X, Zhang Z H. Improving the reliability of short term citation impact indicators by taking into account the correlation between short and long term citation impact[C]. 17th Conference of the International Society for Scientometrics and Informetrics（ISSI 2019）, 2019, 2594-2595, Rome.（EI会议、CPCI-S）
-* Wang X*. Which drives which? The causal relationship between number of editorial board members and scientific output of universities in the chemistry field: A Granger causality test[C]. 16th Conference of the International Society for Scientometrics and Informetrics（ISSI 2017）, 2017, 1616-1617, Wuhan.（EI会议）
-* 任元秋, 王 兴*. 不同学科标准化方法对于高校科研评价结果的影响研究[C]. 第四届科学计量与科技评价天府论坛, 2021, 成都. （获大会优秀论文二等奖）
-* 王 兴*, 张志辉. TWCNCI：一种考虑加权引文时间窗口的学科标准化新指标研究[C]. 第十二届全国科学计量学与科教评价研讨会, 2021, 杭州.（获大会优秀论文三等奖） 
 
 
-
-## 著作
-* 王 兴. 国际学术期刊守门人 大学SCI期刊编委数量与科研产出及学科水平的相关性研究[M]. 上海：上海交通大学出版社，2018.  
-
-
-
-## 咨询报告
-* 王 兴, 冯倬琳. 上海交通大学“985 工程”三期“创新型文献信息服务体系及特色资源建设”绩效评估报告. 2014.
 
