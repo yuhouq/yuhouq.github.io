@@ -5,23 +5,21 @@ cover:  false
 menu:   true
 order:  1
 ---
-### 个人简介
-余厚强，男，管理学博士，中山大学信息管理学院副教授、硕士生导师。亚太信息学院青年委员会委员，中国科学计量学与信息计量学专委会委员，中文信息学会社交媒体专委会委员，国际科学计量学与信息计量学学会终身会员，美国信息科学技术学会会员，担任国内外多种核心期刊和项目的评审专家。
 
-### 学术专长
-数据科学和替代计量、科学交流与科技评价
+### Research Interests/学术专长
+Data science, Informetrics, Scientometrics, Altmetrics, Social Media, Scholarly Communication, Science Policy, Information Visualization, Knowledge Management, Knowledge Service
+数据科学、信息计量、科学计量、替代计量、社交媒体、科学交流、科技评价、科技政策、信息可视化、知识管理、知识服务
 
-### 教授课程
-* 信息素养与创新思维
-* 数据科学方法与应用
-* 图书情报与档案管理研究方法论
-* 网络计量学
+### Teaching courses/教授课程
+* Information literacy and innovative thinking/信息素养与创新思维
+* Data science methods and application/数据科学方法与应用
+* Research methodology in Library and Information Science/图书情报与档案管理研究方法论
+* Webometrics/网络计量学
+* Digital Science/数字科学
 
-### 招生方向
-
-**招生专业**：情报学学术型硕士、图书馆学学术型硕士、档案学学术型硕士、图书情报专业硕士
-
-**研究方向**：数据科学、信息计量、科学计量、替代计量、社交媒体、科学交流、科技评价、科技政策、信息可视化、知识管理、知识服务
+### Students Enrollment/招生方向
+Master of Information Science, Master of Library Science, Master of Archival Science, Master of Library and Information Science
+情报学学术型硕士、图书馆学学术型硕士、档案学学术型硕士、图书情报专业硕士
 
 欢迎对情报分析、科学大数据、网络挖掘和信息可视化交叉方向感兴趣的同学报考。
 
