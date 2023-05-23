@@ -1,22 +1,30 @@
 ﻿---
 layout: page
-title:  代表性科研成果
+title:  Publications
 cover:  false
 menu:   true
 order:  3
 ---
 
-* Yu, H., Wang, Y., Zhang W., Xiao T., Hou J. Who Shares Scholarly Output on Facebook? A Systematic Investigation into Their Location, Productivity and Identities.[J]. Journal of Information Science, 2023, (in press)
+### Selective Peer Reviewed Papers
 
-* Yu, H., Wang, Y., Hussain, S. et al. Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics (2023). https://doi.org/10.1007/s11192-023-04678-6
+* Yu, H., Lin J., & Huang Y. (2023). Proposing Conference Leadership Index to Measure Scholarly Impact of Academic Institutions: An Empirical Study in Artificial Intelligence Field. Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
+
+*	Yu, H., Li L., & Liang Y. (2023). Investigating the Distribution of WeChat Mentions to Scholarly Papers in China. Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
+
+*	Yu, H., Ma C., & Liang Y. (2023). Is Zhihu Mention to Academic Papers Useful for Altmetrics Studies? Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
+
+* Yu, H., Wang, Y., Zhang, W., Xiao, T., & Hou, J. (2023). Who shares scholarly output on Facebook? A systematic investigation into their location, productivity and identities. Journal of Information Science, 0(0). https://doi.org/10.1177/01655515231165632
+
+* Yu, H., Wang, Y., Hussain, S. et al. (2023). Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics. https://doi.org/10.1007/s11192-023-04678-6
 
 * 陈涛,苏日娜,张永娟,张靖,余厚强.智慧数据驱动的古籍智慧性保护体系研究[J].中国图书馆学报,2023,49(01):68-81.
 
-* Yu, H., Li, L., Cao X., & Chen T. Exploring country's preference over news mentions to academic papers.[J]. Journal of Informetrics, 2022, 16(4): 1751-1771.
+* Yu, H., Li, L., Cao X., & Chen T. (2022). Exploring country's preference over news mentions to academic papers.[J]. Journal of Informetrics, 16(4): 1751-1771.
 
 * Yu, H., Yu, X., & Cao, X. (2022). How accurate are news mentions of scholarly output? A content analysis. Scientometrics, 127(7), 4075-4096.
 
-* 余厚强.替代计量学的理论框架研究[J].情报学报,2022,41(08):775-785.
+* Yu H. (2022). On the Theoretical Framework of Altmetrics. Journal of the China Society of Information Science and Technology, 41(08):775-785. (in Chinese)./余厚强.替代计量学的理论框架研究[J].情报学报,2022,41(08):775-785.
 
 * Yu, H., Murat, B., Li, L. et al. (2021) How accurate are Twitter and Facebook altmetrics data? A comparative content analysis. Scientometrics. 126, 4437–4463.
 
@@ -25,8 +33,6 @@ order:  3
 * 余厚强,曹雪婷,王曰芬. 新闻替代计量指标的分布特征研究[J]. 情报学报,2020,39(10):1081-1092.
 
 * Yu, H., Cao, X., Xiao, T. et al. How accurate are policy document mentions? A first look at the role of altmetrics database. (2020), Scientometrics. 125(11), 1517–1540.
-
-* 余厚强. 替代计量学：概念、指标与应用.[M]中国北京, 科学技术文献出版社，2019.
 
 * Yu, H.Q., Xiao, T.T., Xu, S.M., & Wang, Y.F. (2019). Who posts scientific tweets? An investigation into the productivity, locations, and identities of scientific tweeters. Journal of Informetrics, 13(3), 841-855.
 
@@ -62,6 +68,9 @@ order:  3
 
 * 杨思洛, 邱均平, 丁敬达，余厚强. 网络环境下国内学者引证行为变化与学科间差异——基于历时角度的分析[J].中国图书馆学报, 2016.
 
+### Monograph
+
+* Yu H. (2019). Altmetrics: Theory, Indicator and Application. Science and Technology Literature Press, Beijing, China. /余厚强. 替代计量学：概念、指标与应用.[M]中国北京, 科学技术文献出版社，2019.
  
 
 
