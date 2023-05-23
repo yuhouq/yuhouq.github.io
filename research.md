@@ -1,34 +1,34 @@
 ---
 layout: page
-title:  科研项目
+title:  Grants and Projects/科研项目
 cover:  false
 menu:   true
 order:  2
 ---
-## 主持项目
+### PI of Grants/主持项目
 
-1、  国家自然科学基金面上项目（72274227），在研。
+1、  National Natural Science Foundation of China General Program (72274227)/国家自然科学基金面上项目（72274227），在研。
 
-2、  教育部人文社会科学基金项目（22YJA870016），在研。
+2、  Humanities and Social Science Foundation of Ministry of Educationn of China General Program (22YJA870016) / 教育部人文社会科学基金项目（22YJA870016），在研。
 
-3、  国家自然科学基金项目（NO.71804067），已结项。
+3、  National Natural Science Foundation of China Youth Program (71804067)/ 国家自然科学基金项目（71804067），已结项。
 
-4、  教育部人文社会科学基金项目（18YJC870023），已结项。
+4、  Humanities and Social Science Foundation of Ministry of Educationn of China Youth Program (18YJC870023) /教育部人文社会科学基金项目（18YJC870023），已结项。
 
-5、  中央高等基本科研业务费专项资金资助项目（No. 30920021203），已结项。
+5、  Fundamental Research Funds for the Central Universities (30920021203)/ 中央高等基本科研业务费专项资金资助项目（30920021203），已结项。
 
-6、  中央高等基本科研业务费专项资金资助项目（No.30918013107），已结项。
+6、  Fundamental Research Funds for the Central Universities (30918013107) / 中央高等基本科研业务费专项资金资助项目（30918013107），已结项。
 
-## 参与项目
+## Primary Participator/参与项目
 
-1、  国家社会科学基金一般项目（22BTQ097），在研。
+1、  National Social Science Foundation of China General Program/国家社会科学基金一般项目（22BTQ097），在研。
 
-2、  国家社科基金重点项目（14AZD084），已结项。
+2、  National Social Science Foundation of China Key Program (14AZD084) / 国家社科基金重点项目（14AZD084），已结项。
 
-3、  国家社科基金重大项目（11&ZD152），已结项。
+3、  National Social Science Foundation of China Major Program (11&ZD152) / 国家社科基金重大项目（11&ZD152），已结项。
 
-4、  国家自然科学基金应急管理项目（61842602），已结项。
+4、  National Natural Science Foundation of China Emergency Program (61842602) / 国家自然科学基金应急管理项目（61842602），已结项。
 
-5、  国家自然科学基金面上项目（71974094），在研。
+5、  National Natural Science Foundation of China General Program (71974094) / 国家自然科学基金面上项目（71974094），在研。
 
 6、  总装备部项目多项。
