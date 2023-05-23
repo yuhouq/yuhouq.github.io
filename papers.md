@@ -1,12 +1,12 @@
 ﻿---
 layout: page
-title:  Publications
+title:  Publications/代表性著作
 cover:  false
 menu:   true
 order:  3
 ---
 
-### Selective Peer Reviewed Papers
+### Selective Peer Reviewed Papers/代表性同行评议论文
 
 * Yu, H., Lin J., & Huang Y. (2023). Proposing Conference Leadership Index to Measure Scholarly Impact of Academic Institutions: An Empirical Study in Artificial Intelligence Field. Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
 
@@ -68,7 +68,7 @@ order:  3
 
 * 杨思洛, 邱均平, 丁敬达，余厚强. 网络环境下国内学者引证行为变化与学科间差异——基于历时角度的分析[J].中国图书馆学报, 2016.
 
-### Monograph
+### Monograph/专著
 
 * Yu H. (2019). Altmetrics: Theory, Indicator and Application. Science and Technology Literature Press, Beijing, China. /余厚强. 替代计量学：概念、指标与应用.[M]中国北京, 科学技术文献出版社，2019.
  
