@@ -19,16 +19,16 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                  余厚强
+title:                  Houqiang Yu (Francis)
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
- 博士、副教授、硕士生导师
+ Phd, Associate Professor
 
 # A shorter description for the sidebar.
 tagline:               >
-  博士、副教授、硕士生导师
+ Phd, Associate Professor
 
 # A list of keywords for your blog.
 keywords:              []
@@ -38,10 +38,10 @@ logo:                  /assets/img/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                余厚强 
+  name:                Houqiang Yu (Francis) 
   picture:             /assets/img/me.jpg
   social:
-    github:              余厚强 
+    github:              Houqiang Yu (Francis) 
 
 
 # This text will appear in a `<small>` tag in the footer of every page.
