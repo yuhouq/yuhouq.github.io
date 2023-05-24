@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Academici Service/学术兼职
+title:  Academic Service/学术兼职
 cover:  false
 menu:   true
 order:  5
@@ -10,6 +10,8 @@ order:  5
 * iSchool AP iNext/亚太信息学院青年委员会
 * CSSI/中国科学计量学与信息计量学专委会
 * SMP/中文信息学会社交媒体专委会
+* COLLNET2019
+* ISSI2017
 
 ### Editorial Board/编委
 * Frontiers in Research Metrics and Analytics
