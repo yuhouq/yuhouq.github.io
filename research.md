@@ -5,7 +5,7 @@ cover:  false
 menu:   true
 order:  2
 ---
-### PI of Grants/主持项目
+### Selected Grants as PI/代表性主持项目
 
 1、  National Natural Science Foundation of China General Program (72274227)/国家自然科学基金面上项目（72274227），在研。
 
@@ -15,11 +15,9 @@ order:  2
 
 4、  Humanities and Social Science Foundation of Ministry of Educationn of China Youth Program (18YJC870023) /教育部人文社会科学基金项目（18YJC870023），已结项。
 
-5、  Fundamental Research Funds for the Central Universities (30920021203)/ 中央高等基本科研业务费专项资金资助项目（30920021203），已结项。
+5、  Basic and Application Oriented Research Funding of Guangzhou / 广州市基础与应用基础基金项目，在研。
 
-6、  Fundamental Research Funds for the Central Universities (30918013107) / 中央高等基本科研业务费专项资金资助项目（30918013107），已结项。
-
-### Primary Participator/参与项目
+### Selected Grants as Primary Participator/代表性参与项目
 
 1、  National Social Science Foundation of China General Program/国家社会科学基金一般项目（22BTQ097），在研。
 
@@ -31,4 +29,4 @@ order:  2
 
 5、  National Natural Science Foundation of China General Program (71974094) / 国家自然科学基金面上项目（71974094），在研。
 
-6、  总装备部项目多项。
+6、  National Social Science Foundation of China Youth Program (15CTQ023) /国家社会科学基金项目（15CTQ023），已结项。
