@@ -13,6 +13,7 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 情报学学术型硕士、图书馆学学术型硕士、档案学学术型硕士、图书情报专业硕士
 
 欢迎对情报分析、科学大数据、网络挖掘和信息可视化交叉方向感兴趣的同学报考。
+
 ### Current Students/在读学生
 * Tan Fu/傅坦
 * Juntao Lin/林俊涛
@@ -41,4 +42,4 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 
 7、石若琪，2023届，中电科发展规划研究院。
 
-8、王玥，2023届，南京烽火星空通信发展有限公司。数据科学、信息计量、科学计量、替代计量、社交媒体、科学交流、科技评价、科技政策、信息可视化、知识管理、知识服务
+8、王玥，2023届，南京烽火星空通信发展有限公司。
