@@ -6,7 +6,7 @@ menu:   true
 order:  3
 ---
 
-### Selective Peer Reviewed Papers/代表性同行评议论文
+### Selected Peer Reviewed Papers/代表性同行评议论文
 
 * Yu, H., Lin J., & Huang Y. (2023). Proposing Conference Leadership Index to Measure Scholarly Impact of Academic Institutions: An Empirical Study in Artificial Intelligence Field. Proceedings of the 19th ISSI Conference. Indiana University, Bloomington, USA.
 
@@ -28,8 +28,6 @@ order:  3
 
 * Yu, H., Murat, B., Li, L. et al. (2021) How accurate are Twitter and Facebook altmetrics data? A comparative content analysis. Scientometrics. 126, 4437–4463.
 
-* 余厚强,曹雪婷. Mendeley阅读指标视角下的中美国际论文影响力比较研究[J]. 信息资源管理学报,2021,11(03):77-87.
-
 * 余厚强,曹雪婷,王曰芬. 新闻替代计量指标的分布特征研究[J]. 情报学报,2020,39(10):1081-1092.
 
 * Yu, H., Cao, X., Xiao, T. et al. How accurate are policy document mentions? A first look at the role of altmetrics database. (2020), Scientometrics. 125(11), 1517–1540.
@@ -39,8 +37,6 @@ order:  3
 * Yu H.Q., Cao X.T., Xiao T.T. & Yang Z.Y. Accuracy of Policy Document Mentions: the Role of Altmetrics Databases [C]// Proceedings of the 17th International Conference for Scientometrics and Informetrics, Rome, Italy. 2019.
 
 * 余厚强,任全娥,张洋,刘春丽.Altmetrics的译名分歧:困扰、影响及其辨析[J].中国图书馆学报,2019,45(1):47~59
-
-* 余厚强，曹雪婷.替代计量数据质量评估体系构建研究[J].图书情报知识，2019, 188(02):21-29+52.
 
 * Xu, S.M., Yu, H.Q., Hemminger, B.M. et al. Who, what, why? An exploration of JoVE scientific video publications in tweets .[J]Scientometrics, 2018, 117(2):845-856
 
@@ -66,7 +62,6 @@ order:  3
 
 * 邱均平, 余厚强.论推动替代计量学发展的若干基本问题[J]中国图书馆学报, 2015.
 
-* 杨思洛, 邱均平, 丁敬达，余厚强. 网络环境下国内学者引证行为变化与学科间差异——基于历时角度的分析[J].中国图书馆学报, 2016.
 
 ### Monograph/专著
 
