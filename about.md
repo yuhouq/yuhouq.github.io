@@ -8,8 +8,8 @@ order:  1
 
 ### Education Background/教育背景
 
-* Bachaler's degree of Management, Sun Yat-sen University / 中山大学管理学学士
-* PhD's degree of Management, Wuhan University / 武汉大学管理类博士
+* Bachaler's degree, information management and information system, Sun Yat-sen University / 中山大学管理学学士
+* PhD's degree, information science, Wuhan University / 武汉大学管理类博士
 * Visiting Scholar, UNC Chapel Hill / 北卡罗来纳州立大学教堂山分校访问学者
 * Visiting Student, City University of Hong Kong / 香港城市大学交流生
 
