@@ -10,6 +10,7 @@ order:  5
 * iSchool AP iNext/亚太信息学院青年委员会
 * CSSI/中国科学计量学与信息计量学专委会
 * SMP/中文信息学会社交媒体专委会
+* CISC2022
 * COLLNET2019
 * ISSI2017
 
