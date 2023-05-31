@@ -43,3 +43,5 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 7、石若琪，2023届，中电科发展规划研究院。
 
 8、王玥，2023届，南京烽火星空通信发展有限公司。
+
+9、马超，2023届，中国科学院上海有机化学研究所。
