@@ -23,7 +23,6 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 * Hanlin Liang/梁汉林
 * Chongyi Zhang/张翀怡
 * Peiyan Li/李沛妍
-* Yinan Cai/蔡伊南
 
 
 ### Former Students/毕业生去向
