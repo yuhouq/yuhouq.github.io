@@ -8,7 +8,7 @@ order:  3
 
 ### Selected Peer Reviewed Papers/代表性同行评议论文
 
-* Zhang Yang., Xie, Yinghua, Li, Longfei, Houqiang Yu*. (2024). How is public discussion as reflected in WeChat articles different from scholarly research in China? An empirical study of metaverse. Scientometrics, 129(1), 473-495. https://doi.org/10.1007/s11192-023-04892-2
+* Zhang Yang., Xie, Yinghua, Li, Longfei, Yu Houqiang*. (2024). How is public discussion as reflected in WeChat articles different from scholarly research in China? An empirical study of metaverse. Scientometrics, 129(1), 473-495. https://doi.org/10.1007/s11192-023-04892-2
 
 * Yu, H., Yao R. (2023). How are Policy Document Mentions to Academic Papers Accumulated? Proceeding of the 2023 ASIST Annual Meeting. London, UK.
 
