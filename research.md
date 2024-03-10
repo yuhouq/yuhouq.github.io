@@ -11,11 +11,15 @@ order:  2
 
 2、  Humanities and Social Science Foundation of Ministry of Educationn of China General Program (22YJA870016) / 教育部人文社会科学基金项目（22YJA870016），在研。
 
-3、  National Natural Science Foundation of China Youth Program (71804067)/ 国家自然科学基金项目（71804067），已结项。
+3、  Socical Science Foudnation of Guangdong Province Program (GD23YTS04)/ 广东省社会科学基金项目 (GD23YTS04)，在研。
 
-4、  Humanities and Social Science Foundation of Ministry of Educationn of China Youth Program (18YJC870023) /教育部人文社会科学基金项目（18YJC870023），已结项。
+4、  Basic and Application Oriented Research Funding of Guangzhou / 广州市基础与应用基础基金项目，在研。
 
-5、  Basic and Application Oriented Research Funding of Guangzhou / 广州市基础与应用基础基金项目，在研。
+5、  National Natural Science Foundation of China Youth Program (71804067)/ 国家自然科学基金项目（71804067），已结项。
+
+6、  Humanities and Social Science Foundation of Ministry of Educationn of China Youth Program (18YJC870023) /教育部人文社会科学基金项目（18YJC870023），已结项。
+
+
 
 ### Selected Grants as Primary Participator/代表性参与项目
 
