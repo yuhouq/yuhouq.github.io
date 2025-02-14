@@ -15,19 +15,24 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 欢迎对情报分析、科学大数据、网络挖掘和信息可视化交叉方向感兴趣的同学报考。
 
 ### Current Students/在读学生
+* Yian Liang/梁以安
 * Jinhong Zhu/朱晋宏
+* Xin Lai/来昕
+* Junjun Liu/柳珺君
+* Jincong Xu/徐劲聪
 * Yinan Cai/蔡伊南
 * Yunzhou Tang/唐运洲
-* Tan Fu/傅坦
-* Yian Liang/梁以安
-* Xinyan Gu/古馨彦
-* Hanlin Liang/梁汉林
+* * Hanlin Liang/梁汉林
 * Chongyi Zhang/张翀怡
 * Peiyan Li/李沛妍
 * Junhao Lu/卢钧浩
 * Qiyue Pang/庞淇月
 * Kailin Liang/梁恺麟
 * Mingxi Chen/陈茗曦
+* Zihao Li/李子浩
+* Lichao Geng/耿莉超
+* Kexin Chen/陈可心
+* Quxin Cai/蔡渠鑫
 
 
 ### Former Students/部分毕业生去向
@@ -41,5 +46,7 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 7、石若琪，2023届，中电科发展规划研究院。
 8、王玥，2023届，南京烽火星空通信发展有限公司。
 9、马超，2023届，中国科学院上海有机化学研究所。
-10、林俊涛，2024届，中大咨询。
-11、姚人凤，2024届，中国移动。
+10、林俊涛，2023届，中大咨询。
+11、姚人凤，2023届，中国移动。
+12、傅坦，2024届，华东师范大学攻读博士学位。
+13、古馨彦，2024届，TPLINK。
