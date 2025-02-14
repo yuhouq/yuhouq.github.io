@@ -22,7 +22,7 @@ Master of Information Science, Master of Library Science, Master of Archival Sci
 * Jincong Xu/徐劲聪
 * Yinan Cai/蔡伊南
 * Yunzhou Tang/唐运洲
-* * Hanlin Liang/梁汉林
+* Hanlin Liang/梁汉林
 * Chongyi Zhang/张翀怡
 * Peiyan Li/李沛妍
 * Junhao Lu/卢钧浩
