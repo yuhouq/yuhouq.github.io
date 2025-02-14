@@ -76,8 +76,8 @@ order:  3
 ### Monograph/专著
 
 * Yu H. (2019). Altmetrics: Theory, Indicator and Application. Science and Technology Literature Press, Beijing, China. /[余厚强. 替代计量学：概念、指标与应用](https://github.com/yuhouq/yuhouq.github.io/blob/master/%E6%9B%BF%E4%BB%A3%E8%AE%A1%E9%87%8F%E5%AD%A6-%E6%A6%82%E5%BF%B5%E6%8C%87%E6%A0%87%E4%B8%8E%E5%BA%94%E7%94%A8.pdf).[M]中国北京, 科学技术文献出版社，2019.
-* 该专著出版于2019年3月，系国内该领域首部著作，全面而系统地阐述了替代计量学的相关知识。[京东](https://search.jd.com/Search?keyword=%E6%9B%BF%E4%BB%A3%E8%AE%A1%E9%87%8F%E5%AD%A6&enc=utf-8&wq=%E6%9B%BF%E4%BB%A3%E8%AE%A1%E9%87%8F%E5%AD%A6&pvid=a2658f9ff34b4448bb9861c13bc3a3b0)等平台有售。
-*  Send an email to yuhouq@yeah.net for full digital copy of self archived edition of the monograph./发送邮件至yuhouq@yeah.net，可获取该书电子版完整版.
+* 该专著出版于2019年3月，系国内该领域首部著作，全面而系统地阐述了替代计量学的相关知识。支持出版行业，[京东](https://search.jd.com/Search?keyword=%E6%9B%BF%E4%BB%A3%E8%AE%A1%E9%87%8F%E5%AD%A6&enc=utf-8&wq=%E6%9B%BF%E4%BB%A3%E8%AE%A1%E9%87%8F%E5%AD%A6&pvid=a2658f9ff34b4448bb9861c13bc3a3b0)等平台有售。
+*  Send an email to yuhouq@yeah.net for full digital copy of self archived edition of the monograph./出于小范围学术交流目的，发送邮件至yuhouq@yeah.net，可获取该书电子版完整版.
 
 
 
