@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Academic Rewards/学术获奖
+title:  Rewards/获奖
 cover:  false
 menu:   true
 order:  4
