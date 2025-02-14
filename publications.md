@@ -75,7 +75,7 @@ order:  3
 
 ### Monograph/专著
 
-* Yu H. (2019). Altmetrics: Theory, Indicator and Application. Science and Technology Literature Press, Beijing, China. /余厚强. 替代计量学：概念、指标与应用.[M]中国北京, 科学技术文献出版社，2019.
+* Yu H. (2019). Altmetrics: Theory, Indicator and Application. Science and Technology Literature Press, Beijing, China. /[余厚强. 替代计量学：概念、指标与应用]().[M]中国北京, 科学技术文献出版社，2019.
  Send an email to yuhouq@yeah.net for digital copy of self archived edition of the monograph./发送邮件至yuhouq@yeah.net，可获取该书电子版.
 
 
