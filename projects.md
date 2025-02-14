@@ -23,14 +23,16 @@ order:  2
 
 ### Selected Grants as Primary Participator/代表性参与项目
 
-1、  National Social Science Foundation of China General Program/国家社会科学基金一般项目（22BTQ097），在研。
+1、  National Social Science Foundation of China Major Program (23&ZD226) / 国家社科基金重大项目（23&ZD226），在研。
 
-2、  National Social Science Foundation of China Key Program (14AZD084) / 国家社科基金重点项目（14AZD084），已结项。
+2、  National Social Science Foundation of China General Program/国家社会科学基金一般项目（22BTQ097），在研。
 
-3、  National Social Science Foundation of China Major Program (11&ZD152) / 国家社科基金重大项目（11&ZD152），已结项。
+3、  National Social Science Foundation of China Key Program (14AZD084) / 国家社科基金重点项目（14AZD084），已结项。
 
-4、  National Natural Science Foundation of China Emergency Program (61842602) / 国家自然科学基金应急管理项目（61842602），已结项。
+4、  National Social Science Foundation of China Major Program (11&ZD152) / 国家社科基金重大项目（11&ZD152），已结项。
 
-5、  National Natural Science Foundation of China General Program (71974094) / 国家自然科学基金面上项目（71974094），在研。
+5、  National Natural Science Foundation of China Emergency Program (61842602) / 国家自然科学基金应急管理项目（61842602），已结项。
 
-6、  National Social Science Foundation of China Youth Program (15CTQ023) /国家社会科学基金项目（15CTQ023），已结项。
+6、  National Natural Science Foundation of China General Program (71974094) / 国家自然科学基金面上项目（71974094），在研。
+
+7、  National Social Science Foundation of China Youth Program (15CTQ023) /国家社会科学基金项目（15CTQ023），已结项。
