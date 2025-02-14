@@ -8,6 +8,10 @@ order:  3
 
 ### Selected Peer Reviewed Papers/代表性同行评议论文
 
+* Yu, H., Liang Y., & Xie Y (2024). Can peer review accolade awards motivate reviewers? A large-scale quasi-natural experiment. Humanit Soc Sci Commun, 11, 1557 (2024). https://doi.org/10.1057/s41599-024-04088-w
+  
+* 余厚强,李龙飞,杨思洛.中文学术论文的微信提及数据特征分析研究[J].情报学报,2024,43(09):1080-1093.
+  
 * Yu, H.; Liang, Y. A framework for predicting scientific disruption based on graph signal processing[J]. Information Processing & Management, 2024, 61: 103863
   
 * Yu, H., Liang, Y., Xie, Y. Predicting Scientific Breakthroughs Based on Structural Dynamic of Citation Cascades. Mathematics 2024, 12, 1741.
@@ -25,8 +29,6 @@ order:  3
 * Yu, H., Wang, Y., Zhang, W., Xiao, T., & Hou, J. (2023). Who shares scholarly output on Facebook? A systematic investigation into their location, productivity and identities. Journal of Information Science, 0(0). https://doi.org/10.1177/01655515231165632
 
 * Yu, H., Wang, Y., Hussain, S. et al. (2023). Towards a better understanding of Facebook Altmetrics in LIS field: assessing the characteristics of involved paper, user and post. Scientometrics. https://doi.org/10.1007/s11192-023-04678-6
-
-* 陈涛,苏日娜,张永娟,张靖,余厚强.智慧数据驱动的古籍智慧性保护体系研究[J].中国图书馆学报,2023,49(01):68-81.
 
 * Yu, H., Li, L., Cao X., & Chen T. (2022). Exploring country's preference over news mentions to academic papers.[J]. Journal of Informetrics, 16(4): 1751-1771.
 
