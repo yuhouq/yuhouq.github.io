@@ -21,7 +21,7 @@ order:  1
 ### Teaching courses/教授课程
 * Information literacy and innovative thinking/信息素养与创新思维
 * Data science methods and application/数据科学方法与应用
+* Basic programming for information Management/信息管理编程基础
 * Research methodology in Library and Information Science/图书情报与档案管理研究方法论
 * Webometrics/网络计量学
 * Digital Science/数字科学
-* Archival Law/档案法学
