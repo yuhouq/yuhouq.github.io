@@ -2,7 +2,6 @@
 layout: page
 title: Brief Introduction/个人简介
 cover: true
-
 ---
 (Francis) Houqiang Yu, Phd of information science, associate professor at Sun Yat-sen University. He has been engaged in the research of information resource management for a long time. His research interests are scientific big data mining, data science and altmetrics, scholarly communication and scientific evaluation. He presided over 2 National Natural Science Foundation projects, 3 provincial and ministerial level projects, and participated in more than 10 important scientific research projects. He is the editorial board member of SSCI Q1, member of AP iNext, member of CISSI, member of SMP, review expert of more than 20 core journals at home and abroad, and review expert of national projects.
 
