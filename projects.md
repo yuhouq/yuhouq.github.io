@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Grants and Projects/科研项目
+title:  科研项目
 cover:  false
 menu:   true
 order:  2
