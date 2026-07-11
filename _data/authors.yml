@@ -2,13 +2,13 @@
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
 author1:
-  name:              (Francis) Houqiang Yu
+  name:              余厚强
   email:             yuhq8@mail.sysu.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Associate Professor at Sun Yat-sen University
+    中山大学副教授、博士生导师
 
   # This photo will be used in the about section.
   picture:
