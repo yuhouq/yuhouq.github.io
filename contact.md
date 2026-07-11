@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Contact/联系方式
+title: 联系方式
 cover: false
 menu: true
 order: 7
