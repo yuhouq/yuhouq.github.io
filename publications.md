@@ -1,21 +1,24 @@
 ﻿---
 layout: page
-title:  Publications/代表性著作
+title:  代表性著作
 cover:  false
 menu:   true
 order:  3
 ---
 
-### Selected Peer Reviewed Papers/代表性同行评议论文
+### 代表性同行评议论文
+
+
+* Yu, H., Liang, Y. & Xie, Y. Understanding the sustainability of supply–demand in peer review system: an analysis based on scholars’ research and review activities. Scientometrics 130, 1547–1569 (2025). https://doi.org/10.1007/s11192-025-05264-8
+ 
+* Yu, H., Wang, Y., Zhang, W., Xiao, T., & Hou, J. (2025). Who shares scholarly output on Facebook? A systematic investigation into their location, productivity and identities. Journal of Information Science, 51(5), 1217-1234.  https://doi.org/10.1177/01655515231165632 SCI/SSCI
 
 * Yu, H., Liang Y., & Xie Y (2024). Can peer review accolade awards motivate reviewers? A large-scale quasi-natural experiment. Humanit Soc Sci Commun, 11, 1557 (2024). https://doi.org/10.1057/s41599-024-04088-w
   
 * 余厚强,李龙飞,杨思洛.中文学术论文的微信提及数据特征分析研究[J].情报学报,2024,43(09):1080-1093.
   
 * Yu, H.; Liang, Y. A framework for predicting scientific disruption based on graph signal processing[J]. Information Processing & Management, 2024, 61: 103863
-  
-* Yu, H., Liang, Y., Xie, Y. Predicting Scientific Breakthroughs Based on Structural Dynamic of Citation Cascades. Mathematics 2024, 12, 1741.
-  
+   
 * Zhang Yang., Xie, Yinghua, Li, Longfei, Yu Houqiang*. (2024). How is public discussion as reflected in WeChat articles different from scholarly research in China? An empirical study of metaverse. Scientometrics, 129(1), 473-495. https://doi.org/10.1007/s11192-023-04892-2
 
 * Yu, H., Yao R. (2023). How are Policy Document Mentions to Academic Papers Accumulated? Proceeding of the 2023 ASIST Annual Meeting. London, UK.
