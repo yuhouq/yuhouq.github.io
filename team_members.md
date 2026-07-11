@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  课题组成员
+title:  招生就业
 cover:  false
 menu:   true
 order:  2
